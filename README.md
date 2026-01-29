@@ -20,7 +20,7 @@ An **LED indicator** shows the relay ON/OFF status, and a **flyback diode (1N400
 
 ---
 
-## 🧩 Main Components
+## Main Components
 
 - Relay (SPDT)
 - BC547 NPN Transistor
@@ -55,7 +55,7 @@ An **LED indicator** shows the relay ON/OFF status, and a **flyback diode (1N400
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - EasyEDA (Online)
 - PDF & Gerber export

@@ -82,7 +82,7 @@ You are free to use, modify, and share it with proper credit.
 
 ## EasyEDA Project Link
 
-(Add your EasyEDA project link here)
+(https://easyeda.com/editor#id=957d4380f40b4a1cafe96663a2b77a69|ca4786889b0c4d43b1ec03bcbb9ddd16|77c1da1f468d4c2992204fdd9945f146)
 
 ---
 
